@@ -1,4 +1,4 @@
-ℛᴀID = [
+RAID = [
     "ᴍᴀDᴀℛCHᴏD T𝑬ℛI ᴍᴀᴀ KI CHUT ᴍ𝑬 GHUTKᴀ KHᴀᴀK𝑬 THᴏᴏK DUɴGᴀ 🤣🤣",
     "T𝑬ℛ𝑬 B𝑬H𝑬ɴ K CHUT ᴍ𝑬 CHᴀKU DᴀᴀL Kᴀℛ CHUT Kᴀ KHᴏᴏɴ Kᴀℛ DUGᴀ",
     "T𝑬ℛI VᴀH𝑬𝑬ɴ ɴHI HᴀI KYᴀ? 9 ᴍᴀHIɴ𝑬 ℛUK 🇸 ᴀGI VᴀH𝑬𝑬ɴ D𝑬Tᴀ HU 🤣🤣🤩",
@@ -127,7 +127,7 @@
 ]
 
 
-ℛℛᴀID = [
+RRAID = [
     "ᴍᴀDᴀℛCHᴏD",
     "BHᴏ🇸 DIK𝑬",
     "LᴀᴀᴀW𝑬𝑬𝑬 K𝑬 BᴀᴀᴀᴀᴀL",
