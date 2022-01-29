@@ -33,9 +33,6 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-SPAM-BOTS.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-SPAM-BOT.git)
 ------------------------------------------------
 
-## credits 
-
-[yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
