@@ -1,7 +1,7 @@
-# DEADLY SPAMMER
+# SAVAGE SPAMMER
 
 <p align="center">
-  <img src="https://telegra.ph/file/b8e3d5d94082a37b61d8a.jpg">
+  <img src="https://telegra.ph/file/8c074c91d1546acab4904.jpg">
 </p>
 
 
@@ -23,25 +23,18 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/savage_bot_updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/OFFICIAL_SAMEER)
 
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-SPAM-BOT-HOST.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-SPAM-BOTS.git)
 ------------------------------------------------
-
-
-𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
-
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
-    
--------------------------------------------------
 
 ## credits 
 
